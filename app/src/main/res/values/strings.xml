@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shops Finder</string>
+    <string name="nearestShops">Nearest shops</string>
+    <string name="shopDetails">Shop details</string>
+    <string name="favouriteShops">Favourite shops</string>
+    <string name="favouriteRemove">Remove</string>
+    <string name="shopWasSaved">Shop was successfully saved</string>
+    <string name="logOut">Log out</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="rating">Rating</string>
+    <string name="details">Details</string>
+</resources>

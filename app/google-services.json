@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "144921537624",
+    "firebase_url": "https://shopsfinder-297414.firebaseio.com",
+    "project_id": "shopsfinder-297414",
+    "storage_bucket": "shopsfinder-297414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144921537624:android:2e721291ec1b16c09a6e2d",
+        "android_client_info": {
+          "package_name": "com.tikhonov.shopsfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144921537624-g6c0v0vee2kkllp6h4vse3eqtsp5vt10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyActI5krUEIY66hBZulEFkdZdpm2qPw7Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144921537624-g6c0v0vee2kkllp6h4vse3eqtsp5vt10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
