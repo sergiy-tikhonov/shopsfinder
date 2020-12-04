@@ -2,7 +2,7 @@
 Uses Google Places API to show nearby shops (within 500 metres) on the map
 
 Some comments:
-- API-key is not included in here, you should put it in 'local.properties':
+- API-key is not included in here, you should put it in 'local.properties' (and to add your own google-services.json):
 
 MAPS_API_KEY=<YOUR_API_KEY>
 - For interctive Info Window within MapView additional library was used:
